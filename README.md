@@ -1,8 +1,8 @@
 <h1>Hi, I'm Nhat! 
 <h2>👨‍💻 Cybersecurity Analysis:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Pentest</b>
+  - [Pentest Win10 with RATs](https://github.com/TheSelected1/Pentest-RATs)
 
 
 <h2> 🤳 Connect with me:</h2>
