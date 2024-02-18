@@ -4,7 +4,7 @@
 - <b>Pentest</b>
   - [Pentest Win10 with RATs](https://github.com/TheSelected1/Pentest-RATs)
   - [Failed-RDP-to-IP-Geolocation-Information](https://github.com/TheSelected1/Failed-RDP-to-IP-Geolocation-Information/tree/main)
-
+  - [Automation Lab - SIEM(WAZUH) Integrate with Case Management(TheHive) with Support from Reputation Check (VirusTotal)](https://flying-firewall-6ae.notion.site/Automation-Lab-6bcb74beb2dc4d75a56404866a2edcb3?pvs=4)
 
 <h2> 🤳 Connect with me:</h2>
 
